@@ -10,6 +10,10 @@ Here in this task,
 - add image in storage and get link and use in database
 - fetch data from database in react native app
 - data is getting but there ia one problem response data is not displaying in flatlist
+- here is the response from the firebase,
+- 
+- {"followers": 224, "follows": 135, "id": 1, "name": "John Deo", "post": {"date": "2 hrs", "desc": "heyy", "like": "2.1k", "msg": "2.2k", "profileimg": "https://firebasestorage.googleapis.com/v0/b/taskdemo-7051f.appspot.com/o/img2.jpg?alt=media&token=7798712a-fd49-4e91-8a7e-b9f0fc38913a", "save": "1.1k"}, "posts": 35, "profile": "https://firebasestorage.googleapis.com/v0/b/taskdemo-7051f.appspot.com/o/p1.jpg?alt=media&token=df239b8a-54a4-4bfa-92b2-b049589b9ce2"}
+- 
 - profile data is display from the response
 - user location prompt is display 
 - using geolocation latitude and longitude is getting but reverselocation is not done
